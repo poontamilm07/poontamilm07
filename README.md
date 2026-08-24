@@ -308,19 +308,15 @@ A web application designed to automate procurement requests and streamline vendo
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=poontamilm07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=C9D1D9"
-alt="Poontamil GitHub Statistics"
-width="100%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=poontamilm07&show_icons=true&theme=dark&hide_border=true" 
+alt="Poontamil GitHub Statistics" 
+width="70%" />
 
 <br/><br/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=poontamilm07&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FF4B91&area=true&hide_border=true&custom_title=Poontamil%27s%20GitHub%20Activity"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poontamilm07&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FF4B91&area=true&hide_border=true&custom_title=Poontamil%27s%20GitHub%20Activity"
 alt="Poontamil GitHub Activity Graph"
-width="100%"
-/>
+width="100%" />
 
 </div>
 
