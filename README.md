@@ -303,13 +303,12 @@ A web application designed to automate procurement requests and streamline vendo
 </div>
 
 <br/>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poontamilm07&show_icons=true&theme=dark&hide_border=true" 
-alt="Poontamil GitHub Statistics" 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poontamilm07&theme=github_dark" 
+alt="Poontamil GitHub Statistics"
 width="70%" />
 
 <br/><br/>
