@@ -1,37 +1,61 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Poontamil%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<!-- ANIMATED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,35:1a1a2e,70:16213e,100:0f3460&height=230&section=header&text=Poontamil%20M&fontSize=52&fontColor=00f5ff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer&descAlignY=56&descSize=19&descColor=b892ff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Poontamil;Java+Full+Stack+Developer;Computer+Science+Engineering+Student;Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Developer;Building+Practical+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&lines=Java+Full+Stack+Developer;Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Developer;Full+Stack+Developer;Building+Practical+Software+Solutions" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full%20Stack%20Development-0f2027?style=for-the-badge&labelColor=203a43&color=2c5364" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-00f5ff?style=for-the-badge&labelColor=0d0d0d" />
 
 <p>
-  <a href="https://github.com/poontamilm07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/poontamilcse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:poontamil03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/poontamilm07"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
+  <a href="https://www.linkedin.com/in/poontamilcse"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00A6FB" /></a>
+  <a href="mailto:poontamil03@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4b91" /></a>
 </p>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:b892ff&height=2&width=100%" width="100%"/>
 
-A Computer Science Engineering student with a strong interest in **Java Full Stack Development**. I enjoy solving practical problems through software and have hands-on experience building backend services with **Spring Boot**, developing REST APIs, working with **MySQL** databases, and building frontends with **React JS**. I'm continuing to strengthen my skills through internships and real project work.
+<br/>
 
-- 🎓 B.E. Computer Science and Engineering student
-- ☕ Java & Spring Boot backend development
-- 🌐 REST API development
-- ⚛️ React JS frontend development
-- 🗄️ MySQL database integration
-- 🧠 Strong problem-solving mindset, focused on building practical software solutions
+<table>
+<tr>
+<td width="72%" valign="top">
+
+## 👤 Who I Am
+
+A **Computer Science Engineering** student focused on becoming a strong **Java Full Stack Developer**. I like turning real-world problems into working software — from backend services to the interfaces people actually use.
+
+## 🛠️ What I Build
+
+- Backend services with **Java & Spring Boot**
+- **REST APIs** for real application workflows
+- Frontends with **React JS**
+- Data-driven apps backed by **MySQL**
+
+## 🎯 Current Focus
+
+Strengthening **backend architecture**, **REST API design**, and end-to-end **full stack delivery**.
+
+</td>
+<td width="28%" align="center" valign="top">
+
+<!-- ANIMATED DEVELOPER MASCOT -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180"/>
+<br/>
+<sub><i>keeps building, one commit at a time</i></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -39,9 +63,13 @@ A Computer Science Engineering student with a strong interest in **Java Full Sta
 
 <div align="center">
 
-| 🎓 CSE Student | ☕ Java Developer | 🌱 Spring Boot |
-|:---:|:---:|:---:|
-| **⚛️ React JS** | **🗄️ MySQL** | **🔧 REST APIs** |
+<img src="https://img.shields.io/badge/🎓-CSE_Student-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00f5ff"/>
+<img src="https://img.shields.io/badge/☕-Java_Developer-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=b892ff"/>
+<img src="https://img.shields.io/badge/🌱-Spring_Boot-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=ff4b91"/>
+<br/>
+<img src="https://img.shields.io/badge/⚛️-React_JS-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00A6FB"/>
+<img src="https://img.shields.io/badge/🗄️-MySQL-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00f5ff"/>
+<img src="https://img.shields.io/badge/🔧-REST_APIs-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=b892ff"/>
 
 </div>
 
@@ -51,50 +79,46 @@ A Computer Science Engineering student with a strong interest in **Java Full Sta
 
 <table>
 <tr>
-<td width="30%"><b>B.E. Computer Science and Engineering</b></td>
-<td>Mahendra Engineering College, Namakkal</td>
-<td>2023 – 2027</td>
-<td><b>86%</b></td>
+<td>🟣</td>
+<td><b>B.E. Computer Science and Engineering</b><br/>Mahendra Engineering College, Namakkal<br/><sub>2023 – 2027 · 86%</sub></td>
 </tr>
 <tr>
-<td><b>HSC</b></td>
-<td>Bharathi Higher Secondary School</td>
-<td>2022 – 2023</td>
-<td><b>82%</b></td>
+<td>🔵</td>
+<td><b>HSC</b><br/>Bharathi Higher Secondary School<br/><sub>2022 – 2023 · 82%</sub></td>
 </tr>
 <tr>
-<td><b>SSLC</b></td>
-<td>Viveka Matriculation School</td>
-<td>2020 – 2021</td>
-<td><b>100%</b></td>
+<td>🟢</td>
+<td><b>SSLC</b><br/>Viveka Matriculation School<br/><sub>2020 – 2021 · 100%</sub></td>
 </tr>
 </table>
 
-📍 Namakkal, Tamil Nadu
-
 <br/>
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
 
-**Frontend Development**
+**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
-**Backend & Database**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
 <br/>
-<sub>Spring Boot &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; MySQL</sub>
+<sub>Spring Boot &nbsp;•&nbsp; REST APIs</sub>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
 
 </div>
 
@@ -112,20 +136,20 @@ A web platform enabling citizens to report civic issues such as potholes, garbag
 
 **Tech:** React JS · Java · Spring Boot · REST APIs · MySQL
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poontamilm07/Crowd-Sourced-Civic-Isuues-Reporting-And-Resolution-System--Mini-Project)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://crowd-sourced-civic-isuues-reporting-and-resolution-aw3xt0ovq.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/poontamilm07/Crowd-Sourced-Civic-Isuues-Reporting-And-Resolution-System--Mini-Project)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d0d?style=for-the-badge&logo=vercel&logoColor=b892ff)](https://crowd-sourced-civic-isuues-reporting-and-resolution-aw3xt0ovq.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 Smart Procurement Automation with Vendor Management Solution
 
-A web application designed to automate procurement requests and streamline vendor approval workflows, covering vendor registration, purchase requests, and approvals.
+A web application designed to automate procurement requests and streamline vendor approval workflows.
 
 **Tech:** Java · Spring Boot · REST APIs · MySQL
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poontamilm07/java-based-procurement-management-system-frontend)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2c5364?style=flat-square&logo=vercel&logoColor=white)](https://java-based-procurement-management-system-frontend-dwhbqeo45.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Repository-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/poontamilm07/java-based-procurement-management-system-frontend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d0d0d?style=for-the-badge&logo=vercel&logoColor=b892ff)](https://java-based-procurement-management-system-frontend-dwhbqeo45.vercel.app/)
 
 </td>
 </tr>
@@ -135,20 +159,38 @@ A web application designed to automate procurement requests and streamline vendo
 
 ## 💼 Internship Experience
 
-**📌 December 2025 — Java Full Stack Development Intern**
-`LAX360 Pvt. Ltd.`
+<table>
+<tr>
+<td width="4%" align="center">🟣</td>
+<td>
+
+**Java Full Stack Development Intern** — `LAX360 Pvt. Ltd.`
+<br/><sub>December 2025</sub>
+<br/>Tech: Java Swing · Core Java
+
 - Developed desktop-based GUI applications using **Java Swing**
 - Implemented event-driven programming
 - Applied **OOP** principles
-- Used exception handling and core Java programming concepts
+- Used exception handling and core Java concepts
 
-**📌 December 2025 – February 2026 — Procurement Automation with Vendor Management Solution**
-`Infosys Springboard`
+</td>
+</tr>
+<tr>
+<td align="center">🔵</td>
+<td>
+
+**Procurement Automation with Vendor Management Solution** — `Infosys Springboard`
+<br/><sub>December 2025 – February 2026</sub>
+<br/>Tech: Java · Spring Boot · REST APIs
+
 - Developed backend functionality using **Java Spring Boot**
 - Implemented **RESTful APIs**
-- Worked on procurement workflow automation
-- Worked with vendor management
+- Automated procurement workflows and vendor management
 - Focused on efficient data and process handling
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -156,16 +198,17 @@ A web application designed to automate procurement requests and streamline vendo
 
 <div align="center">
 
-![SnowPro Associate](https://img.shields.io/badge/SnowPro_Associate-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-NoviTech_R%26D-2c5364?style=for-the-badge)
-![Java NPTEL](https://img.shields.io/badge/Programming_in_Java-NPTEL_(75%25)-blue?style=for-the-badge)
-![Cloud Computing NPTEL](https://img.shields.io/badge/Cloud_Computing-NPTEL_(62%25)-blue?style=for-the-badge)
-![IoT NPTEL](https://img.shields.io/badge/Intro_to_IoT-NPTEL_(81%25)-blue?style=for-the-badge)
-![Infosys Java](https://img.shields.io/badge/Java_Foundation-Infosys_Springboard-0f2027?style=for-the-badge)
-![Infosys Python](https://img.shields.io/badge/Python_Foundation-Infosys_Springboard-0f2027?style=for-the-badge)
-![Salesforce](https://img.shields.io/badge/Agentblazer_Champion-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/Virtual_Internship-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Generative_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SnowPro](https://img.shields.io/badge/SnowPro_Associate-Snowflake-0d0d0d?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![FSD](https://img.shields.io/badge/Full_Stack_Development-NoviTech_R%26D-0d0d0d?style=for-the-badge&logoColor=00f5ff)
+![NPTELJava](https://img.shields.io/badge/Programming_in_Java-NPTEL_75%25-0d0d0d?style=for-the-badge&logoColor=b892ff)
+![NPTELCloud](https://img.shields.io/badge/Cloud_Computing-NPTEL_62%25-0d0d0d?style=for-the-badge&logoColor=b892ff)
+![NPTELIoT](https://img.shields.io/badge/Intro_to_IoT-NPTEL_81%25-0d0d0d?style=for-the-badge&logoColor=b892ff)
+<br/>
+![InfyJava](https://img.shields.io/badge/Java_Foundation-Infosys_Springboard-0d0d0d?style=for-the-badge&logoColor=00f5ff)
+![InfyPython](https://img.shields.io/badge/Python_Foundation-Infosys_Springboard-0d0d0d?style=for-the-badge&logoColor=00f5ff)
+![Salesforce](https://img.shields.io/badge/Agentblazer_Champion-Salesforce-0d0d0d?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![ServiceNow](https://img.shields.io/badge/Virtual_Internship-ServiceNow-0d0d0d?style=for-the-badge&logo=servicenow&logoColor=62D84E)
+![GCP](https://img.shields.io/badge/Generative_AI-Google_Cloud-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 
 </div>
 
@@ -175,18 +218,18 @@ A web application designed to automate procurement requests and streamline vendo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poontamilm07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poontamilm07&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=poontamilm07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=b892ff&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poontamilm07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=c9d1d9" width="40%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poontamilm07&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=poontamilm07&theme=dark&hide_border=true&background=0d0d0d&ring=00f5ff&fire=b892ff&currStreakLabel=00f5ff" width="48%" />
 
 </div>
 
 <br/>
 
-## 📈 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -194,19 +237,23 @@ A web application designed to automate procurement requests and streamline vendo
 
 </div>
 
-> This requires a one-time GitHub Actions setup — see the workflow file and setup steps below.
+<sub>Powered by the existing <code>.github/workflows/snake.yml</code> workflow — unchanged and left fully intact.</sub>
 
+<br/><br/>
+
+## 📚 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🌱-Advanced_Spring_Boot-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00f5ff"/>
+<img src="https://img.shields.io/badge/🔧-REST_API_Development-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=b892ff"/>
 <br/>
+<img src="https://img.shields.io/badge/🏗️-Backend_Development-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=ff4b91"/>
+<img src="https://img.shields.io/badge/🌐-Full_Stack_Development-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00A6FB"/>
+<br/>
+<img src="https://img.shields.io/badge/🗄️-Database_Integration-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=00f5ff"/>
 
-## 📚 Currently Learning
-
-Currently strengthening:
-
-- 🌱 Spring Boot (advanced concepts)
-- 🔧 REST API Development
-- 🏗️ Backend Development
-- 🌐 Full Stack Development
-- 🗄️ Database Integration
+</div>
 
 <br/>
 
@@ -214,9 +261,9 @@ Currently strengthening:
 
 <div align="center">
 
-<a href="https://github.com/poontamilm07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/poontamilcse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:poontamil03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/poontamilm07"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00f5ff" /></a>
+<a href="https://www.linkedin.com/in/poontamilcse"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00A6FB" /></a>
+<a href="mailto:poontamil03@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4b91" /></a>
 
 </div>
 
@@ -224,8 +271,6 @@ Currently strengthening:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<sub>Let's build something meaningful with code.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,35:16213e,70:1a1a2e,100:0d0d0d&height=130&section=footer&text=Let's%20build%20something%20meaningful%20with%20code.&fontSize=16&fontColor=00f5ff&animation=fadeIn" width="100%"/>
 
 </div>
